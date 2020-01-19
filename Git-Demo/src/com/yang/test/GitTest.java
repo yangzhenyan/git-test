@@ -11,6 +11,5 @@ public class GitTest {
         System.out.println("hello git!!!");
 
 
-        System.out.println("enennennenne");System.out.println("enennennenne");
-    }
+        System.out.println("enennen11nenne");    }
 }
